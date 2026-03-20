@@ -23,7 +23,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # database
-.dev.db
+*.db
 
 # environment variables
 .env
